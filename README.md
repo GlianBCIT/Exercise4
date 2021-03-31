@@ -1,1 +1,0 @@
-# simple-excercise-GlianBCIT
