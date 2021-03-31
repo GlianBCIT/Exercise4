@@ -1,5 +1,5 @@
 function Component3(){
-  return <div div style={{
+  return <div  style={{
     width:400,
     height:450,
     backgroundColor:"lightgrey",

@@ -1,7 +1,7 @@
 function Component1UI (){
     return (
         <div className="messages">
-            <h3 className="title"><span>your</span> message:</h3>
+            <h3 className="title"><span className="colortext">your</span> message:</h3>
             <div>
                 <input type="text"></input>
                 <button>SEND</button>
