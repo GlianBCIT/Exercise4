@@ -1,5 +1,21 @@
 
 
+import Component2 from '../comps/CustomComponent2';
+
+
+function Home() {
+
+
+  return (
+    <div>
+        <Component2 />
+    </div>
+    )
+  }
+
+export default Home;
+
+
 import Component1 from '../comps/CustomComponent1/Sofia_compnent';
 import styles from '../styles/sofia.module.css';
 
