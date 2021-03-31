@@ -4,7 +4,7 @@ function Component1UI (){
             <h3 className="title"><span className="colortext">your</span> message:</h3>
             <div>
                 <input type="text"></input>
-                <button>SEND</button>
+                <button className="button-sofia">SEND</button>
             </div>
         </div>
     )

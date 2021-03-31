@@ -7,10 +7,12 @@ return <div style={{
     backgroundColor: '#26325B',
     width: 900,
     height: 100,
+    justifyContent: 'center',
+    alignItems: 'center',
 }} >
     <h3 style={{
             color: 'white',
-            margin: '0 0 0 20',
+            margin: 20,
     }}>
         <span style={{
         fontSize: 80,
@@ -24,38 +26,39 @@ return <div style={{
 
     <p style={{
         color: 'white',
-        margin: '35 35 10 35',
+        margin: 35,
     }}> Home </p>
 
     <p style={{
         color: 'white',
-        margin: '35 35 10 35',
+        margin: 35 ,
     }}> About</p>
 
     <p style={{
         color: 'white',
-        margin: '35 35 10 35',
+        margin: 35 
     }}> Shop</p>
 
     <p style={{
         color: 'white',
-        margin: '35 35 10 35',
+        margin: 35 ,
     }}> Contact</p>
 
     <p style={{
         color: 'white',
-        margin: '35 35 10 35',
+        margin: 35 ,
     }}> Services</p>
 
     <p style={{
         color: 'white',
-        margin: '35 35 10 35',
+        margin: 35 ,
     }}> Help</p>
 
     </div>
 
     <button style={{
         width: 100,
+        height: 100,
         backgroundColor: 'white',
     }}>Get Started</button>
 
